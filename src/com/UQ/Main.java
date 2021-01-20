@@ -30,7 +30,7 @@ public class Main {
     }
 
     public static int fibRec(int n) {
-    /* Implemented using recursion */
+    /* Implemented using recursion, increased time complexity */
         if (n < 2) {
             return 1;
         }
